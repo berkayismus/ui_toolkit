@@ -31,8 +31,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  ui_toolkit:
-    path: ../
+  ui_toolkit: ^0.0.1
 
 
   # The following adds the Cupertino Icons font to your application.
