@@ -8,6 +8,8 @@ class AsyncButton extends StatefulWidget {
   });
 
   final String text;
+
+  /// butona tıklandığında, bu fonksiyon tetiklenir
   final Future<void> Function() onPressed;
 
   @override
